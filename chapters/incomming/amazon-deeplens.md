@@ -3,16 +3,11 @@
 
 |          |                  |
 | -------- | ---------------- |
-| title    | AWS DeepLens :o: |
-| status   | 95               |
+| title    | AWS DeepLens     |
+| status   | 100              |
 | section  | TBD              |
 | keywords | TBD              |
 
-
-
-
-ERROR: CITATION PLACEMENT WRONG WE CAN NOT FIGURE OUT IF THIS MEANS IT
-IS QUOTED
 
 AWS DeepLens is the world's first wireless high definition video camera
 which is optimized for Deep Learning. It comes with computer vision
@@ -22,13 +17,13 @@ SageMaker and AWS Lambda.
 Apart from configuring and running deep learning models, AWS Greengrass
 can be programmed to run various lambda functions. There are many
 pre-built models that can run instantly with
-Deeplens. [@hid-sp18-522-deeplens]
+Deeplens[@hid-sp18-522-deeplens].
 
 Several Features of AWS DeepLens are listed next
 
-* Integrated with AWS
-* Build custom models with Amazon SageMaker
-* Broad framework support
-* Fully programmable
-* Custom built for deep learning
+1 Integrated with AWS
+2 Build custom models with Amazon SageMaker
+3 Broad framework support
+4 Fully programmable
+5 Custom built for deep learning
 
